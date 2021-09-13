@@ -1,4 +1,4 @@
 # JV's Notes
 
-> ## Summary 
-> This repository contains all of the notes taken by JV for the Lighthouse Labs Web Development Bootcamp.
+ ## Summary 
+ This repository contains all of the notes taken by [JV](https://github.com/jvblum) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
